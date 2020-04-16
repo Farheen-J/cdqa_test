@@ -1,0 +1,7 @@
+title,paragraphs
+servicemesh,"['Servicemesh is like a closed environment in which your API will reside.','Servicemesh will help you interact with other services like a proxy. It is working in blah blah way','but while it work\'s something definitely goes wrong']"
+difference,"['Springboard does not have components like Zuul, eureka, Vinz etc nor does it separate business logic like service mesh does', 'Springboard does not have components like Zuul, eureka, Vinz etc nor does it separate business logic like smr4 does']"
+issue,"['When your api returns HTTP 400 it means that the request you sent is not formed properly.','When your api returns HTTP 500 it means that there\'s internal server error', 'When your api returns HTTP 404 it means that the endpoint you are trying to consume does not exist']"
+components,"['Zuul Gateway functions as a gateway in service mesh','Eureka is used for service discovery','Spring cloud config is used to reload the configurations']"
+servicemesh secure,"['service mesh is secure.','It secures it by encapsulation stuff and protecting it by using mesh token']"
+routing_rules,"['show me zuul vinz configuration for my api', 'I want to check zuul vinz configuration for my API']"
